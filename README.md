@@ -1,6 +1,6 @@
 # Zen Word Puzzle
 
-A relaxing word-connect puzzle game for mobile, built with **Godot 4.3**, in the style of
+A relaxing word-connect puzzle game for mobile, built with **Godot 4.6** (also opens in 4.7), in the style of
 *Zen Word*. Swipe across the letters on the wheel to spell words and fill the board. There
 are **3,000 handcrafted-by-algorithm levels**, a new **daily puzzle** every day, and
 150 themed chapters with their own scenery.
@@ -34,7 +34,7 @@ are **3,000 handcrafted-by-algorithm levels**, a new **daily puzzle** every day,
 
 ## Running the game
 
-1. Install [Godot 4.3](https://godotengine.org/download) (the standard build; C# is not needed).
+1. Install [Godot 4.6 or 4.7](https://godotengine.org/download) (the standard build; C# is not needed). If 4.7 asks to upgrade the project when you open it, click OK.
 2. Open Godot, click **Import**, and select `project.godot` in this folder.
 3. Press **F5** (Run Project). The desktop window is portrait (450×800) to look like a phone.
    Use the mouse to drag across the letters.
