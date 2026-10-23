@@ -1,0 +1,6 @@
+tools/.cache/
+.godot/
+*.import.tmp
+export/
+*.apk
+*.aab

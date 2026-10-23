@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5f93e0"/>
+      <stop offset="0.6" stop-color="#b9b6ea"/>
+      <stop offset="1" stop-color="#f6c7d8"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#sky)"/>
+  <path d="M0 190 L60 120 L100 160 L150 100 L210 165 L256 130 L256 256 L0 256 Z" fill="#6f8fb5"/>
+  <path d="M0 215 Q64 180 128 205 T256 200 L256 256 L0 256 Z" fill="#3f7a4e"/>
+  <g fill="#1e4f93">
+    <rect x="34" y="40" width="58" height="58" rx="12"/>
+    <rect x="99" y="40" width="58" height="58" rx="12"/>
+    <rect x="164" y="40" width="58" height="58" rx="12"/>
+    <rect x="99" y="105" width="58" height="58" rx="12"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M46 54 L54 86 L63 64 L72 86 L80 54"/>
+    <circle cx="128" cy="69" r="16"/>
+    <path d="M182 86 L182 52 L196 52 Q208 52 208 62 Q208 72 196 72 L182 72 M196 72 L208 86"/>
+    <path d="M116 118 L116 150 L126 150 Q142 150 142 134 Q142 118 126 118 Z"/>
+  </g></svg>
